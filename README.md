@@ -1,0 +1,1 @@
+This Java Servlet handles a basic login form using `doGet` and `doPost` methods. The `doGet` method generates an HTML login form, while the `doPost` method processes the form submission, validating the username and password. If credentials match "root", it displays a success message; otherwise, it shows a failure message.
